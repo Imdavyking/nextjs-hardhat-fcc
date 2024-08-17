@@ -19,8 +19,7 @@
     "next": "12.1.5",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-moralis": "^1.4.0",
-    "web3uikit": "^0.1.159"
+    "react-moralis": "^1.4.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
